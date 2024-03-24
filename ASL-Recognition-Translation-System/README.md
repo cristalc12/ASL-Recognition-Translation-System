@@ -1,1 +1,0 @@
-# ASL-Recognition-Translation-System
